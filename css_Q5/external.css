@@ -1,0 +1,87 @@
+/* External stylesheet for CSS Lab Question-5 */
+
+body{
+    background-color: rgb(80, 80, 80);
+    font-family: "myriad-pro",Myriad Pro,Arial,sans-serif;
+}
+.container-fluid{
+    margin: 30px;
+}
+
+.circles{
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 30px;
+    padding-left: 12px;
+    padding-top: 10px;
+}
+
+.column{
+    float: left;
+}
+.register{
+    background-color: black;
+    border-bottom-left-radius: 5px;
+    padding-left: 70px;
+}
+.login{
+    background-color: mediumseagreen;
+    border-bottom-right-radius: 5px;
+    padding-top: 190px;
+    padding-left: 50px;
+    padding-right: 45px;
+    padding-bottom: 211px;
+}
+
+img{
+    width: 100px;
+    padding-top: 50px;
+}
+.btn_reg{
+    color: white;
+    background-color: mediumseagreen;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#language{
+    background-color:black;
+    border:none;
+    color: gray;
+    font-size:10px;
+}
+.footer{
+    font-size: xx-small;
+    color: gray;
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+a{
+    color: gray;
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.field{
+    color:white;
+    background-color: transparent;
+    vertical-align: top;
+    border: none;
+    border-bottom: 1px solid white;
+    width:250px;
+}
+.btn_login{
+    border: none;
+    color: mediumseagreen;
+    background-color: white;
+    padding: 10px 25px;
+    text-align: center;
+    font-weight: bold;
+}
+#frgt_pswrd{
+    text-decoration: none;
+    color: white;
+}
